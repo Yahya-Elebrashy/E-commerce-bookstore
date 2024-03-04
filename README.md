@@ -19,3 +19,6 @@ This project built with ASP.Net Core MVC using SQL Server, N-Tier Architecture, 
 - Allows the admin to manage and show all orders in real-time
 - Allows the admin to manage and show all users
 - Allows the admin to manage all companies
+
+# screenshots
+![- BulkyWeb - Work - Microsoft​ Edge 04_03_2024 02_40_19 م](https://github.com/Yahya-Elebrashy/E-commerce-bookstore/assets/105698320/ef51688f-b5ff-4806-b888-38d77df2c411)
