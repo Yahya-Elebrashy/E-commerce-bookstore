@@ -10,12 +10,12 @@ This project built with ASP.Net Core MVC using SQL Server, N-Tier Architecture, 
 - The customer can view his orders in real-time
 
 # Admin Panel 
--Allows the admin to add new books in real-time
--Allows the admin to Edit books 
--Allows the admin to Delete new books 
--Allows the admin to add new Category 
--Allows the admin to Edit Category 
--Allows the admin to Delete Category
--Allows the admin to manage and show all orders in real-time
--Allows the admin to manage and show all users
--Allows the admin to manage all companies
+- Allows the admin to add new books in real-time
+- Allows the admin to Edit books 
+- Allows the admin to Delete new books 
+- Allows the admin to add new Category 
+- Allows the admin to Edit Category 
+- Allows the admin to Delete Category
+- Allows the admin to manage and show all orders in real-time
+- Allows the admin to manage and show all users
+- Allows the admin to manage all companies
