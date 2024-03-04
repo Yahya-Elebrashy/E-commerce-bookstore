@@ -25,7 +25,7 @@
                     {
                         <div class="row border-bottom pb-3">
                             <div class="d-none d-lg-block col-lg-1 text-center py-2">
-                                @if (item.Product.ProductImages is not null)
+                                @if (item.Product.ProductImages.Count() !=0)
                                 {
                                     <img src="@item.Product.ProductImages.FirstOrDefault().ImageUrl" class="rounded" width="100%" />
                                 }
