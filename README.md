@@ -2,12 +2,12 @@
 This project built with ASP.Net Core MVC using SQL Server, N-Tier Architecture, UnitOfWork, SignalR, and Repository Pattern. The customer's panel allows customers to buy books and the admin panel for managing products in real-time with signalr, companies, categories, users, and orders in real-time with signalr.
 
 # Customer's Panel
--customer can login and register
--customer can view all books
--show product details
--Allows adding books to the shopping cart
--Handles payment for buying books
--The customer can view his orders in real-time
+- customer can login and register
+- customer can view all books
+- show product details
+- Allows adding books to the shopping cart
+- Handles payment for buying books
+- The customer can view his orders in real-time
 
 # Admin Panel 
 -Allows the admin to add new books in real-time
